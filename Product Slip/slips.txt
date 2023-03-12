@@ -1,0 +1,3 @@
+Sagar Bisweas,01727361077,sagarbiswas.sb@gmail.com,200,10,180
+Sagar,01552399226, sagarbiswas.sb@gmail.com, 1000, 30, 700
+Sagar 01,01727361977, sagar@gmail.com, 2000, 50, 1000
